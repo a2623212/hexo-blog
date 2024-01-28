@@ -5,33 +5,33 @@ force_https: true
 check_update: true
 
 menus:
-  - name: 首页
+  - name: Home
     link: /
-  - name: 归档
+  - name: Archives
     link: /archives/
-  - name: 标签
+  - name: Tags
     link: /tags/
-  - name: 友链
+  - name: Friends
     link: /friends/
 post:
   feature: true
 disqus:
   enable: false
-  shortname: 'Your shortname here'
-  api: 'Your api here'
-  apikey: 'Your api key here'
-  admin: 'Your disqus username here'
+  shortname: "Your shortname here"
+  api: "Your api here"
+  apikey: "Your api key here"
+  admin: "Your disqus username here"
 gitalk:
   enable: false
-  clientId: 'Your Client Id here'
-  clientSecret: 'Your Client Secret here'
-  repository: 'Your Comment Repository here'
-  owner: 'Your github username here'
+  clientId: "Your Client Id here"
+  clientSecret: "Your Client Secret here"
+  repository: "Your Comment Repository here"
+  owner: "Your github username here"
 valine:
   enable: false
-  appId: 'Your appID here'
-  appKey: 'Your appKey here'
-  placeholder: 'Your placeholder here'
+  appId: "Your appID here"
+  appKey: "Your appKey here"
+  placeholder: "Your placeholder here"
   pageSize: 10
 web_analytics:
   enable: false
