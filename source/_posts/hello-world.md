@@ -1,40 +1,23 @@
 ---
-title: Hello Ally
-feature: 
+title: This is Ally
+tag: MentoCamp
 ---
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+為什麼會有這個部落格是因為參加了饅頭計畫，不過他就是一個因為課程而產生的部落格。
 
-## Quick Start
+## 主要的部落格
 
-### Create a new post
+我主要的部落格文章會放在這兩個地方：
 
-```bash
-$ hexo new "My New Post"
-```
+1. 生活的部落格
+   [CY 愛呷冰](https://chih-yuu.me/)，這是我用 wordpress 建立的部落格，裡面充滿了我想和不知名讀者們分享的題目，大概率會集中在旅遊、美食還有學習方式。
+2. 程式用的部落格
+   [CY 愛呷冰｜前端](https://blog.chih-yuu.me/)，這是用`Next.js`、`Tailwind CSS`架起來的部落格，主題則是參考另一位博主大大。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 保留 Hexo 部落格的原因
 
-### Run server
+不過，雖然 Hexo 已經慢慢的退出主流市場，也還是曾經的靜態網頁霸主，所以我也還是想搞懂他的運作模式，還有功能，以現在而言，我還沒有搞懂要如何讓 Hexo 部落格可以每一篇有一個精選圖片，還有可不可以產生目錄，作為以前端為目標的人，雖然知道有些擴充工具可以使用，但是總覺得還是要知道原理比較好。
 
-```bash
-$ hexo server
-```
+所以，即使交完作業，這個部落格還是要拿來實驗用。不過，課程中的文章會全數移到[CY 愛呷冰｜前端](https://blog.chih-yuu.me/)。
 
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+以此銘誌。
