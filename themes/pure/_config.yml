@@ -9,10 +9,10 @@ menus:
     link: /
   - name: Archives
     link: /archives/
-  - name: Tags
-    link: /tags/
-  - name: Friends
-    link: /friends/
+  # - name: Tags
+  #   link: /tags/
+  # - name: Friends
+  #   link: /friends/
 post:
   feature: true
 disqus:
